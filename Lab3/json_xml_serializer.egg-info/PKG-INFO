@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: json-xml-serializer
+Version: 0.1.1
+Summary: Library for python (de)serialization in Json and Xml
+Home-page: https://github.com/YanPreskurel/Labs_1-4_4sem_IGI/tree/lab3
+Author: YanPreskurel
+Author-email: yanpresfoot@mail.ru
+License: MIT
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Operating System :: OS Independent
